@@ -1,1 +1,3 @@
-f
+<<<<<<< HEAD
+d
+>>>>>>> origin/master
